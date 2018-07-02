@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <drawable name="white">#ffffff</drawable>
+    <drawable name="darkgray">#808080</drawable>
+    <drawable name="darkgraya">#805</drawable>
+    <drawable name="darkgray2">#8080</drawable>
+    <drawable name="darkgray3">#800</drawable>
+    <drawable name="darkgray4">#850</drawable>
+    <drawable name="darkgray5">#1080</drawable>
+    <drawable name="darkgray6">#008</drawable>
+    <drawable name="dark">#ff000111</drawable>
+    <drawable name="darkgray7">#ff0001</drawable>
+    <drawable name="darkgray8">#f55</drawable>
+    <drawable name="darkgray9">#103</drawable>
+
+
+
+    <array name="rainbow">
+        <item>@drawable/darkgray2</item>
+        <item>@drawable/darkgray3</item>
+        <item>@drawable/darkgray4</item>
+        <item>@drawable/darkgray5</item>
+        <item>@drawable/darkgray6</item>
+        <item>@drawable/darkgray7</item>
+        <item>@drawable/darkgray8</item>
+        <item>@drawable/darkgray9</item>
+
+    </array>
+</resources>
