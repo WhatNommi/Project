@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
+//hello
         ToggleButton b1 = (ToggleButton) findViewById(R.id.btn);
         Resources res = getResources();
         final TypedArray Mycolors = res.obtainTypedArray(R.array.rainbow);
